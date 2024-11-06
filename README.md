@@ -27,8 +27,8 @@ This Arduino project demonstrates how to connect an Arduino to a Wi-Fi network, 
  **Upload Code**:
    - Connect your Arduino to your computer.
    - Upload the code to your board using the Arduino IDE.
-   - 
+     
   
 ## Acknowledgments
-PubSubClient Library for making MQTT communication with Arduino easier.
-Arduino Community for helpful documentation and examples.
+-PubSubClient Library for making MQTT communication with Arduino easier.
+-Arduino Community for helpful documentation and examples.
