@@ -30,7 +30,7 @@ This Arduino project demonstrates how to connect an Arduino to a Wi-Fi network, 
      
   
 ## Acknowledgments
-- **PubSubClient Library**:for making MQTT communication with Arduino easier..
-- **Arduino Community**: for helpful documentation and examples.
+- **PubSubClient Library**: Making MQTT communication with Arduino easier..
+- **Arduino Community**: Helpful documentation and examples.
 
 
