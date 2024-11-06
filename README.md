@@ -17,21 +17,18 @@ This Arduino project demonstrates how to connect an Arduino to a Wi-Fi network, 
 
 ## Setup
 
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/yourusername/arduino-mqtt-publisher.git
-    ```
 
-2. **Install Dependencies**:
+ **Install Dependencies**:
    - Open Arduino IDE.
    - Go to **Sketch** -> **Include Library** -> **Manage Libraries**.
    - Search for and install **PubSubClient** and any other required libraries for Wi-Fi.
      
    
-3. **Upload Code**:
+ **Upload Code**:
    - Connect your Arduino to your computer.
    - Upload the code to your board using the Arduino IDE.
+   - 
   
-Acknowledgments
+## Acknowledgments
 PubSubClient Library for making MQTT communication with Arduino easier.
 Arduino Community for helpful documentation and examples.
